@@ -80,4 +80,4 @@ python3 ~/Apps/draw/main.py
 ```
 You can also create a desktop entry which is included in repo
 ```bash
-sudo cp ~/Apps/draw/DRAW.desktop ~/usr/share/applications
+sudo cp ~/Apps/draw/DRAW.desktop /usr/share/applications
