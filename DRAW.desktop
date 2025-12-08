@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=DRAW
+Exec=/usr/bin/python3 ~/Apps/draw/main.py
+Terminal=false
+Type=Application
+Icon=
+Comment=The AAC converter
+Categories=Development;
