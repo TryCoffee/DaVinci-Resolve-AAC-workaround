@@ -81,3 +81,5 @@ python3 ~/Apps/draw/main.py
 You can also create a desktop entry which is included in repo
 ```bash
 sudo cp ~/Apps/draw/DRAW.desktop /usr/share/applications
+```
+## Make sure you changed the path in DRAW.desktop if you didn’t clone the repository to ~/Apps
